@@ -19,4 +19,7 @@ jobs:
             exit 1
           else
             echo "Scan passed. No obvious secrets found."
+          fi
+            
+        
           
