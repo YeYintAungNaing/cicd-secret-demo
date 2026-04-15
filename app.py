@@ -17,4 +17,8 @@ def login(username):
         else:
             flash('Incorrect username or password.')
             return redirect(url_for('login'))
+        
+        
+        
+print("test")
 
